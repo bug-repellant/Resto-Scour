@@ -1,0 +1,6 @@
+{
+  "name": "Pub & Dining Scour",
+  "description": "Discover Indian restaurants, pubs, and microbreweries sorted strictly by distance in kilometers (km) with AI multi-source verified INR (₹) menu prices, Reddit chatter, and happy hour deals.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
